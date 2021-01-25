@@ -1,0 +1,8 @@
+{
+    "name": "game-of-three-server",
+    "version": "0.0.1",
+    "description": "Server side for a small app",
+    "main": "index.js",
+    "author": "markoffden",
+    "license": "MIT"
+}
